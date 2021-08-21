@@ -2,8 +2,9 @@
 
 
 ### Desafio realizado por Cristopher Muñoz
-- [GitHub](https://github.com/Ceristh/)
-- [Email contacto](ceristh@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-ceristh-0e76a8?style=flat&labelColor=0e76a8&logo=github&logoColor=white)](https://www.github.com/ceristh/)
+[![Linkedin Badge](https://img.shields.io/badge/-ceristh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceristh/)
+[![Mail Badge](https://img.shields.io/badge/-ceristh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ceristh@gmail.com)
 
 ## Desafío - Iguana page
 
@@ -25,7 +26,7 @@ utilizando la siguiente maqueta, se pide construir una página web, de acuerdo a
 requisitos expuestos a continuación:
 
 
-<img align="center" alt="img-pag-completa" width="50%" src="https://raw.githubusercontent.com/Ceristh/Iguana-page/main/assets/img/03_d_Desaf%C3%ADo_-_Iguana_page.jpg" />
+<img align="center" alt="img-pag-completa" width="50%" src="https://raw.githubusercontent.com/Ceristh/Iguana-page/main/assets/img/iguana_page.jpg" />
 <hr>
 
 
